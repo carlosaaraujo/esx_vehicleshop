@@ -1,6 +1,6 @@
 # esx_vehicleshop
 
-##Requirements
+#Requirements
 
 Auto mode (everyone can buy vehicles from the dealer)
 
@@ -13,7 +13,7 @@ Player management (the car dealer job): billing, boss actions and more!
 - esx_addoninventory
 - cron
 
-##Download & Installation
+#Download & Installation
 
 - Import esx_vehicleshop.sql in your database
 - Add this in your server.cfg:
