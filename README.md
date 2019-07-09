@@ -1,6 +1,26 @@
 # esx_vehicleshop
 
-## Requirements
+## Requerimentos pt-BR
+
+Modo automático (todos podem comprar veículos do revendedor)
+
+Não há necessidade de baixar outro recurso
+Gerenciamento de jogadores (o trabalho do revendedor de automóveis): faturamento, ações do chefe e muito mais!
+
+- esx_society
+- esx_billing
+- esx_addonaccount
+- esx_addoninventory
+- cron
+
+## Download & Instalação pt-BR
+
+- Importe esx_vehicleshop.sql para o seu banco de dados
+- Adicione em seu server.cfg:
+- start esx_vehicleshop
+- Se você quer o gerenciamento de jogadores, você precisa configurar Config.EnablePlayerManagement como true em config.lua
+
+## Requirements us-EN
 
 Auto mode (everyone can buy vehicles from the dealer)
 
@@ -13,7 +33,7 @@ Player management (the car dealer job): billing, boss actions and more!
 - esx_addoninventory
 - cron
 
-## Download & Installation
+## Download & Installation us-EN
 
 - Import esx_vehicleshop.sql in your database
 - Add this in your server.cfg:
