@@ -1,6 +1,6 @@
 # esx_vehicleshop
 
-Requirements
+**Requirements**
 Auto mode (everyone can buy vehicles from the dealer)
 
 No need to download another resource
