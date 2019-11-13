@@ -44,7 +44,6 @@ $(document).ready(function(){
         $("#page-"+page).hide();
         if (page > 1) {
             page = page - 1;
-			console.log(page)
         }
         $("#page-"+page).show();
     });
@@ -53,7 +52,6 @@ $(document).ready(function(){
         $("#page-"+page).hide();
         if (page < mpage) {
             page = page + 1;
-			console.log(page)
         }
         $("#page-"+page).show();
     });
